@@ -34,3 +34,37 @@
 | a_digi_sda | PA4 |
 | b_digi_scl | PA6 |
 | b_digi_sda | PJ7 |
+
+| function    | Pin |
+|----------------|---------|
+| ADS1118_sensor | PE6     |
+| ADS1118_miso   | PE7     |
+| ADS1118_sclk   | PE2     |
+| ADS1118_mosi   | PH2     |
+
+| function    | Pin |
+|----------------|---------|
+| disp_mosi      | PC0     |
+| disp_sclk      | PC1     |
+| disp_latch     | PC3     |
+| disp_click     | PG2     |
+| disp_back      | PJ6,PJ3 |
+| disp_up        | PJ5     |
+| disp_down      | PJ4     |
+| disp_power     | PA7     |
+| disp_led       | PC2     |
+
+| function    | Pin |
+|----------------|---------|
+| ext0_heater | PE5  |
+| ext1_heater | PE3  |
+| hbp_heater  | PH5  |
+| hbp_sensor  | PF3  |
+| ext0_fan    | PH4  |
+| ext1_fan    | PE4  |
+| fan         | PG5  |
+
+| function    | Pin |
+|----------------|---------|
+| beep        | PH3  |
+| pca9632_??  | spi? |
