@@ -1,3 +1,5 @@
+Steppers
+
 | function    | Pin |
 |-------------|-----|
 | x_step      | PD6 |
@@ -16,11 +18,15 @@
 | ex_b_dir    | PK7 |
 | ex_b_enable | PA1 |
 
+Endstops
+
 | function   | Pin |
 |------------|-----|
 | x_endstop  | PC7 |
 | y_endstop  | PC6 |
 | z_endstop  | PC5 |
+
+Digipots
 
 | function   | Pin |
 |------------|-----|
@@ -35,12 +41,16 @@
 | b_digi_scl | PA6 |
 | b_digi_sda | PJ7 |
 
+ADS1118
+
 | function       | Pin     |
 |----------------|---------|
 | ADS1118_sensor | PE6     |
 | ADS1118_miso   | PE7     |
 | ADS1118_sclk   | PE2     |
 | ADS1118_mosi   | PH2     |
+
+Display Interface
 
 | function       | Pin     |
 |----------------|---------|
@@ -55,6 +65,8 @@
 | disp_power     | PA7     |
 | disp_led       | PC2     |
 
+Heaters, Fans, Sensors
+
 | function    | Pin  |
 |-------------|------|
 | ex_a_heater | PE5  |
@@ -64,6 +76,8 @@
 | ex_a_fan    | PH4  |
 | ex_b_fan    | PE4  |
 | fan         | PG5  |
+
+Misc
 
 | function    | Pin |
 |-------------|---------|
