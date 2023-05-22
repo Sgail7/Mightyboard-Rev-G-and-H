@@ -1,6 +1,12 @@
-# mightyboard
-information about the Makerbot Mightyboard and Replicator2(x) printers
+# Mightyboard
+Information about the Makerbot Mightyboard and Replicator2(x) printers
 
-[Connectors](Connectors.md)
+## Mightyboard Revision G
+[Connectors](Mightyboard Rev G/Connectors.md)
 
-[Pins](pins.md)
+[Pins](Mightyboard Rev G/pins.md)
+
+## Mightyboard Revision H
+[Connectors](Mightyboard Rev H/Connectors.md)
+
+[Pins](Mightyboard Rev H/pins.md)
