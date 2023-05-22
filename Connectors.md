@@ -76,6 +76,7 @@
 |                     |            | IO2/PG3  | PG3      |                                                   |
 |                     |            | 5v       |          |                                                   |
 |                     |            | BLNK/PB7 | PB7      |                                                   |
+|                     |            | I01/PG4  | PG4      |                                                   |
 |                     |            |          |          |                                                   |
 | J18 1280_EXTRA_2    |            | GND      |          | No connector                                      |
 |                     |            | IO6/PF2  | PF2      |                                                   |
