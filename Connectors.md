@@ -4,7 +4,7 @@
 |                     |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
-| J2 PCB_Fan          |            |          |          | No connector                                      |
+| J2 PCB_Fan          |            | N/A      | N/A      | No connector, constantly powered with 24V         |
 |                     |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
