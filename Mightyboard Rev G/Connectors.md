@@ -1,7 +1,7 @@
 | Connector           | Pin Number | Pin      | MCU Pin  | Notes                                             |
 |---------------------|------------|----------|----------|---------------------------------------------------|
-| J1 POWER            |            |          |          |                                                   |
-| S1 POWER            |            |          |          |                                                   |
+| J1 POWER            |            |          |          | Power Connector                                   |
+| S1 POWER            |            |          |          | Power Switch                                      |
 |                     |            |          |          |                                                   |
 | S2                  |            |          |          | Reset Button                                      |
 |                     |            |          |          |                                                   |
