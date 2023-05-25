@@ -1,12 +1,11 @@
 | Connector           | Pin Number | Pin      | MCU Pin  | Notes                                             |
 |---------------------|------------|----------|----------|---------------------------------------------------|
 | J1 POWER            |            |          |          |                                                   |
+| S1 POWER            |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
+| S2                  |            |          |          | Reset Button                                      |
 |                     |            |          |          |                                                   |
 | J2 PCB_Fan          |            |          |          | No connector, constantly powered with 24V         |
-|                     |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
 | J3 FAN_Cool         |            | PG5      |          |                                                   |
 |                     |            |          |          |                                                   |
@@ -34,8 +33,8 @@
 |                     |            | 5v       |          |                                                   |
 |                     |            |          |          |                                                   |
 | J7 Extruder_B       |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 | J8 Extruder_A       |            |          |          |                                                   |
+|                     |            |          |          |                                                   |
 | J9 Endstops_1       |            |          |          |                                                   |
 |                     |            |          |          |                                                   |
 | J10 Thermocouples   |            |          |          |                                                   |
@@ -107,11 +106,7 @@
 |                     |            | DIN      |          |                                                   |
 |                     |            |          |          |                                                   |
 | J23 StepperBot Ex_A |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 | J24 StepperBot Ex_B |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 | J25 StepperBot X    |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 | J26 StepperBot Y    |            |          |          |                                                   |
-|                     |            |          |          |                                                   |
 | J27 StepperBot Z    |            |          |          |                                                   |
