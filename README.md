@@ -49,7 +49,8 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 
 # Power Supply Connector Pinout
 
-![Power_Connector_Pinout_Image](Documents/Power Connector.webp)
+![Power Connector Pinout Image](Documents/Power_Connector.webp)
 
-[Socket_Datasheet](Documents/Kycon KPJX-CM-4S.pdf)
-[Plug_Datasheet](Documents/Kycon KPPX-4P.pdf)
+[Socket Datasheet](Documents/Kycon_KPJX-CM-4S.pdf)
+
+[Plug Datasheet](Documents/Kycon_KPPX-4P.pdf)
