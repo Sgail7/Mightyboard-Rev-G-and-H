@@ -37,14 +37,19 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 
 # Major Components on Board
 
-MCU
-ADS thingy
-Bed mosfet
-fan mosfets
-Extruder heater mosfets
-Usb controller
-make a pictures folder to store pinout designs and pictures locally
+|     Component Function      |        Component Name       |          Datasheet          |
+|-----------------------------|-----------------------------|-----------------------------|
+|             MCU             |       ATMega 1280/2560      | [Datasheet](Documents/ATmega640-1280-1281-2560-2561-Datasheet.pdf) |
+|      Thermocouple ADC       |           ADS1118           | [Datasheet](Documents/ads1118.pdf) |
+|      Bed Heater Mosfet      |     PSMN7R0-30YL SOT669     | [Datasheet](Documents/PSMN7R0-30YL.pdf) |
+|    Hotend Heater Mosfets    |     PSMN7R0-30YL SOT669     | [Datasheet](Documents/PSMN7R0-30YL.pdf) |
+|     Extruder Fan Mosfets    |        2N7002K SOT23        | [Datasheet](Documents/2N7002K.PDF) |
+|       Part Fan Mosfet       |        2N7002K SOT23        | [Datasheet](Documents/2N7002K.PDF) |
+|       USB Controller        |                             | [Datasheet]() |
 
 # Power Supply Connector Pinout
 
-put the pinout picture here and the name of the connector
+![Power Connector Pinout image](Documents/Power Connector.webp)
+
+[Socket Datasheet](Documents/Kycon KPJX-CM-4S.pdf)
+[Plug Datasheet](Documents/Kycon KPPX-4P.pdf)
