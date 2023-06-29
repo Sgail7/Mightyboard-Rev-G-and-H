@@ -17,7 +17,9 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 
 ## Pinout Guide
 
-![Pinout](Documents/Mightyboard_Rev_G_Pinout_Guide_Transparent.png)
+![Pinout](Documents/Rev G/Mightyboard_Rev_G_Pinout_Guide.png)
+
+Pictures of the board can be found in the [Documents](Documents) folder.
 
 </p>
 </details>
@@ -35,6 +37,12 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 |-----------------------------|
 | Beeper on top side of board |
 | Missing a pcb_fan header    |
+
+## Pinout Guide
+
+![Pinout](Documents/Rev H/Mightyboard_Rev_H_Pinout_Guide.png)
+
+Pictures of the board can be found in the [Documents](Documents) folder.
 
 </p>
 </details>
