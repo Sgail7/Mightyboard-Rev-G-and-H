@@ -17,7 +17,7 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 
 ## Pinout Guide
 
-![Pinout](Documents/Rev G/Mightyboard_Rev_G_Pinout_Guide.png)
+![Pinout](Documents/Rev-G/Mightyboard_Rev_G_Pinout_Guide.png)
 
 Pictures of the board can be found in the [Documents](Documents) folder.
 
@@ -40,7 +40,7 @@ Pictures of the board can be found in the [Documents](Documents) folder.
 
 ## Pinout Guide
 
-![Pinout](Documents/Rev H/Mightyboard_Rev_H_Pinout_Guide.png)
+![Pinout](Documents/Rev-H/Mightyboard_Rev_H_Pinout_Guide.png)
 
 Pictures of the board can be found in the [Documents](Documents) folder.
 
