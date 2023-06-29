@@ -5,9 +5,9 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 <p>
 
 ## Mightyboard Revision G
-[Connectors](https://github.com/Sgail7/Mightyboard-Rev-G-and-H/blob/Separate-Rev-G-and-Rev-H-pinouts/Mightyboard%20Rev%20G/Connectors.md)
+[Table of Connectors](Mightyboard_Rev_G/Connectors.md)
 
-[Pins](https://github.com/Sgail7/Mightyboard-Rev-G-and-H/blob/Separate-Rev-G-and-Rev-H-pinouts/Mightyboard%20Rev%20G/Pins_in_use.md)
+[Pins in Use](Mightyboard_Rev_G/Pins_in_use.md)
 
 ## Physical Notes
 |            Rev G             |
@@ -28,9 +28,9 @@ Pictures of the board can be found in the [Documents](Documents) folder.
 <p>
 
 ## Mightyboard Revision H
-[Connectors](https://github.com/Sgail7/Mightyboard-Rev-G-and-H/blob/Separate-Rev-G-and-Rev-H-pinouts/Mightyboard%20Rev%20H/Connectors.md)
+[Table of Connectors](Mightyboard_Rev_H/Connectors.md)
 
-[Pins](https://github.com/Sgail7/Mightyboard-Rev-G-and-H/blob/Separate-Rev-G-and-Rev-H-pinouts/Mightyboard%20Rev%20H/Pins_in_use.md)
+[Pins in Use](Mightyboard_Rev_H/Pins_in_use.md)
 
 ## Physical Notes
 |            Rev H            |
