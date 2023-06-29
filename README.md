@@ -15,6 +15,10 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 | Beeper on underside of board |
 | Includes a pcb_fan header    |
 
+## Pinout Guide
+
+![Pinout](Documents/Mightyboard_Rev_G_Pinout_Guide_Transparent.png)
+
 </p>
 </details>
 
@@ -45,7 +49,7 @@ Pin mappings for the Makerbot Mightyboard Rev G and Rev H. These boards were use
 |    Hotend Heater Mosfets    |     PSMN7R0-30YL SOT669     | [Datasheet](Documents/PSMN7R0-30YL.pdf) |
 |     Extruder Fan Mosfets    |        2N7002K SOT23        | [Datasheet](Documents/2N7002K.PDF) |
 |       Part Fan Mosfet       |        2N7002K SOT23        | [Datasheet](Documents/2N7002K.PDF) |
-|       USB Controller        |                             | [Datasheet]() |
+|          Interface          |          ATMega8U2          | [Datasheet](Documents/ATmega8U2-16U2-32U2-Datasheet.pdf) |
 
 # Power Supply Connector Pinout
 
